@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EliasAndela</string>
+    <string name="welcome_txt">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="name">Elias</string>
+    <string name="Track">Track:</string>
+    <string name="Track_name">Android</string>
+    <string name="country">Country:</string>
+    <string name="country_name">Nigeria</string>
+    <string name="Email">Email:</string>
+    <string name="Email_name">kasumu.elias@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="phone_number_id">09058700249</string>
+    <string name="Slack_Username">Slack Username:</string>
+    <string name="Slack_Username_name">Kasumu</string>
+    <string name="profile_pic">Profile pic</string>
+</resources>
